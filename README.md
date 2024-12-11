@@ -1,6 +1,6 @@
 # Scalable-Sentiment-Analysis-and-Product-Recommendations-Using-Big-Data-Platforms
 This project aims to analyze Amazon reviews to generate scalable sentiment analysis and create a product recommendation system using the Amazon Reviews dataset from Julian McAuley’s UCSD repository.
-Big Data Platform:
+Big Data Platform:\n
 Databricks: Chosen for its ability to handle large datasets efficiently with Apache Spark and provide a unified platform for data processing, machine learning, and visualization.
 Key Technologies:
 Apache Spark: For distributed processing and machine learning at scale.
